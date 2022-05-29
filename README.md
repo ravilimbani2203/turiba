@@ -10,4 +10,6 @@ It is also desired to have a web portal for administrators to upload information
 
 figma https://www.figma.com/file/tt2qPwEizbRIPXlRtXUXDK/Untitled?node-id=1264%3A2
 
-## Architecture 
+## Architecture 🏛
+This project is made wirh Flutter TDD Clean Architecture
+https://camo.githubusercontent.com/ed5a652d7a001b5c9d32d86fe0b88e162059ddf827050beb06781472d5f1540b/68747470733a2f2f7265736f636f6465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30332f4444442d466c75747465722d4469616772616d2d76332e737667
