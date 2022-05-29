@@ -9,3 +9,5 @@ It is also desired to have a web portal for administrators to upload information
 - Implementation of collaborative filters
 
 figma https://www.figma.com/file/tt2qPwEizbRIPXlRtXUXDK/Untitled?node-id=1264%3A2
+
+## Architecture 
